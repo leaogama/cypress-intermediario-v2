@@ -1,5 +1,7 @@
 # Testes automatizados com Cypress - Intermdiário
 
+https://docs.cypress.io/guides/overview/why-cypress
+
 👋 Seja bem-vinda(o)!
 
 É muito bom tê-la(o) aqui. Tenho certeza que você vai adorar este curso. ❤️
